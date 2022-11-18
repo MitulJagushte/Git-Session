@@ -1,0 +1,4 @@
+git config –-global user.name “Mitul Jagushte”
+
+
+git config --global user.email "mitul.jagushte@bcwebwise.com"
